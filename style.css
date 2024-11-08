@@ -10,7 +10,7 @@ html {
 
 body {
     font-family: Arial, sans-serif;
-    background-image: url('/image/bgpink.avif'); 
+    background-image: url('bgpink.avif'); 
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -79,7 +79,7 @@ header nav a {
     align-items: center; 
     justify-content: space-between; 
     padding: 20px; 
-    background-image: url('/image/bg3.jpeg'); 
+    background-image: url('bg3.jpeg'); 
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 20px;
@@ -135,7 +135,7 @@ header nav a {
     align-items: center; 
     justify-content: space-between; 
     padding: 20px; 
-    background-image: url('/image/bg4.jpeg'); 
+    background-image: url('bg4.jpeg'); 
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 20px;
@@ -181,7 +181,7 @@ header nav a {
     text-align: center;
     justify-content: space-between; 
     padding: 20px; 
-    background-image: url('/image/bg5.jpeg'); 
+    background-image: url('bg5.jpeg'); 
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 20px;
@@ -234,7 +234,7 @@ header nav a {
     border: 3px solid #f3ebd2;
     text-align: center;
     justify-content: space-between; 
-    background-image: url('/image/bgg.jpeg'); 
+    background-image: url('bgg.jpeg'); 
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 20px;
@@ -263,7 +263,7 @@ header nav a {
 
 .skill-list {
     text-align: center;
-    background-image: url('/image/bggh.jpeg'); 
+    background-image: url('bggh.jpeg'); 
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 20px;
